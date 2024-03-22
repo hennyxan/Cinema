@@ -1,0 +1,38 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+button {
+    margin: 150px;
+    padding: 10px;
+    background-color: #a600ff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+select {
+    padding: 5px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+#selectedTickets {
+    margin-top: 20px;
+}
+
+.movie {
+    margin-bottom: 10px;
+}
